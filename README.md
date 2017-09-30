@@ -9,7 +9,7 @@
 * Change the background color of the `quote-box` to white.
 * Make the width of the `quote-box` shorter.
 * Figure out how to round the corners of the `quote-box`. Hint: Google "how to round corners in CSS"
-* Add `10px` of `padding` to the `quote-box` .
+* Want more space between the words and the edge of the `quote-box`? Check out [this](https://www.w3schools.com/css/css_boxmodel.asp). You have to change one of those properties
 
 
 ## Level Two
