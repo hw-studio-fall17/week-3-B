@@ -1,5 +1,6 @@
 # CSS: Let's style our site
 ###### REMEMBER! When you are stuck...GOOGLE IS YOUR FRIEND. "HOW TO ____________ using CSS"
+### All of the HTML needed for levels 1 – 4 are in the index.html file. Your job is to style this page using CSS.
 
 ## Level One
 ![level one](/images/level-1.png)
