@@ -18,15 +18,15 @@
 * If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`
 * Make all of the `author`s a smaller font size.
 * Put a border around the `built-strong-box` .
-* Change the color of the text inside to white.
-* Center the text.
-* Make the width shorter.
-* Use the CSS `float` property to move this box to the right. Hint: Google CSS float property
+* Change the color of the text inside `built-strong-box` to white.
+* Center the text in `built-strong-box`.
+* Make the width of the `built-strong-box` shorter.
+* Use the CSS `float` property to move the box. Hint: Google "CSS float property".
 
 
 ## Level Three
 ![level three](/images/level-3.png)
-* Change the `background` from a `linear-gradient` to be the mountain image that is in your `images` folder. Check out this [link](https://teamtreehouse.com/community/how-do-i-add-a-background-image-in-the-css-file) for help. HINT: You are not using a link so you will be accessing the image with something like `url(images/example.jpg)`.
+* Change the `background` from a `linear-gradient` to be the mountain image in your `images` folder. Check out this [link](https://teamtreehouse.com/community/how-do-i-add-a-background-image-in-the-css-file) for help. HINT: You are not using a link so you will be accessing the image with something like `url(images/example.jpg)`.
 * Can you only see the clouds in your background image?? Resize the image to fit the page. HINT: the answer is on the same [link](https://teamtreehouse.com/community/how-do-i-add-a-background-image-in-the-css-file) from above.
 * Increase the `font-size` of your heading.
 
@@ -43,6 +43,11 @@
 * Once you get the `<li>` side by side use `border-left` to create a line inbetween each quote.
 * Add some `padding` so that there is some space inbetween the border and words
 * Make the quotes italicized
+* Change the `quote-box` to have an transparent background using an `rgba()` color. GOOGLE rgba() color
+
+## Level Five
+* User `hover` to make something happen when you hover over the `built-strong-box`. Here's a good place too learn about `hover` : https://www.w3schools.com/cssref/sel_hover.asp be sure to click on the "Try it yourself button"
+* Add some more HTML and style it anyway your choose!
 
 
 
