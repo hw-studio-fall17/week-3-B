@@ -15,7 +15,7 @@
 ## Level Two
 ![level two](/images/level-2.png)
 * Change the `body` to have a `linear-gradient()` background color. Check out this [link](https://www.w3schools.com/css/css3_gradients.asp) for help. **HINT**: Notice that `linear-gradient()` is used on `background` not `background-color`.
-* If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`
+* If you are having trouble getting the gradient to go across the whole page. Try adding `background-attachment: fixed;`.
 * Make all of the `author`s a smaller font size.
 * Put a border around the `built-strong-box` .
 * Change the color of the text inside `built-strong-box` to white.
@@ -36,7 +36,7 @@
 * Search for the font `Monoton`.
 * Click the red + button.
 * Click on the `1 Family Selected` pop up at the bottom
-* Like the direction on the pop up say, add the `<link>` to you index.html inside the `<head>` at the top
+* Like the directions on the pop up say, add the `<link>` to your `index.html` inside the `<head>` at the top
 * Use the CSS `font-family` directions given on the website change the font of the heading to `Monoton`.
 * Set the width of each `quote` to `25%` of the `quote-box`
 * Try to figure out how to get the `<li>` side by side. HINT: check out this [link](https://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block)
