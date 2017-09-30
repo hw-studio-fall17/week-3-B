@@ -2,7 +2,7 @@
 
 
 ## Level One
-![level one](/images/final-product.png)
+![level one](/images/level-1.png)
 * Make the background color of the body a nice green. I used `#518248`
 * Change the `font-family` of the body.[CSS font families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 * Center the "Climb Every Mountain" heading.
